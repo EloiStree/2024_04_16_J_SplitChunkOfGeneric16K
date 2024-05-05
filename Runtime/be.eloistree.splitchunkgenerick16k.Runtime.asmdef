@@ -1,0 +1,17 @@
+{
+    "name": "be.eloistree.splitchunkgenerick16k",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dd2b8b651e7dadc439660d83a311da45",
+        "GUID:35c40feb6e9058544b74f5eaea5a8275"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

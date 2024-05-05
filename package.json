@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.splitchunkgenerick16k",                              
+  "displayName": "Split Chunk of Generic 16K Native Array",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool use to split chunk of byte of native array of 16k to push and reconstruct on network.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_05_05_J_SplitChunkOfGeneric16K.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
